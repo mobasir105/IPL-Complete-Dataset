@@ -1,6 +1,8 @@
 # IPL Complete Data Analysis
 # Explore IPL Dataset with EDA and Plots
 
+dataset https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
 
 Pandas: For data manipulation and analysis.
 NumPy: For numerical operations.
